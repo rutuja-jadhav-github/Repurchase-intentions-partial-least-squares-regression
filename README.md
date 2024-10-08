@@ -4,7 +4,7 @@
 
 ## Context
 
-Note - the 'Thesis' folder to access individual chapters. /n
+Note - the 'Thesis' folder to access individual chapters. Skip to Chp 4 for the statistical analysis.
 
 Given the rising levels of uncertainty during the COVID 19 pandemic, and highly competitive pureplay landscape, agility has been cited as a meritorious organizational trait particularly in fast-paced tech companies, to navigate changing consumer demands within a limited frame of time (Kotler, Kartajaya and Setiawan, 2021). From staying ahead of the latest trends, to personalizing the user journey with real time contextual updates, or even rapidly experimenting with content, agility has become an integral part of keeping pace with changing consumer preferences.
 This study aims to investigate the effects of Agile Marketing Capabilities of multibrand fashion apps on the repurchase intentions of Gen Zs and younger Millennials, particularly accentuating on the intermediary role of consumer’s affective states – pleasure, arousal, and dominance. Pureplay multibrand fashion apps refer to mobile platforms used by e-tailers such as ASOS and ZALANDO offering a plethora of brands under one umbrella. Equipped with mobility and rich data from the user’s device, fashion apps provide an ideal context to study the effects of agile marketing on consumer behaviour./n
